@@ -1,5 +1,4 @@
-# Control-de-vencidos-Academia-de-Danza
-# Sistema de Control y Administración de clientes vencidos.
+# Sistema de Control y Administración de alumnos vencidos.
 Desarrollado para la academia de Danza Celeste Pérez. Gestiona vencimientos de alumnos con alertas, reportes, impresión de facturas y filtrado eficiente.
 # Tecnologías:
  - Java: Lógica del sistema. 
